@@ -1,0 +1,6 @@
+{
+  "name": "사이언스 제스처 퀴즈 | 중학교 과학 4지선다",
+  "description": "MediaPipe 손가락 인식(1~4개 1.5초 유지)으로 푸는 중학교 과학 10문제 웹앱. 온디바이스 로컬 처리 및 마우스 클릭 지원.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
